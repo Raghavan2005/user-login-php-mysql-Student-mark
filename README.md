@@ -25,4 +25,5 @@ The SQL query "select * from login where username = '$username' and password = '
 
 This query is typically used in a login system where the user enters their username and password, and the system checks if they match the values stored in the "login" table. If a row is returned, it means that the user has entered valid credentials and can be authenticated.
 
+![image](https://github.com/Raghavan2005/user-login-php-mysql-Student-mark/assets/78393373/aa24f915-0088-4b7f-b664-8303714da719)
 
